@@ -1,0 +1,26 @@
+Place these original files inside the folder TILESET VILLAGE TOP DOWN next to index.html:
+
+GRASS TILE - DAY.png
+GRASS TILE - NIGHT.png
+WATER TILE - DAY.png
+WATER TILE - NIGHT.png
+GROUND TILE - DAY.png
+GROUND TILE - NIGHT.png
+TREE 1 - DAY.png
+TREE 1 - NIGHT.png
+TREE 2 - DAY.png
+TREE 2 - NIGHT.png
+TREE 3 - DAY.png
+TREE 3 - NIGHT.png
+HOUSE 1 - DAY.png
+HOUSE 1 - NIGHT.png
+CHURCH - DAY.png
+CHURCH - NIGHT.png
+GRASS DETAIL 1 - DAY.png
+GRASS DETAIL 1 - NIGHT.png
+WATER DETAIL 1 - DAY.png
+WATER DETAIL 1 - NIGHT.png
+WATER DETAIL 5 - DAY.png
+WATER DETAIL 5 - NIGHT.png
+
+Other files from the original pack may remain in the same folder.
